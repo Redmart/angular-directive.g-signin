@@ -1,0 +1,19 @@
+{
+  "name": "angular-directive.g-signin",
+  "version": "0.1.1",
+  "description": "",
+  "main": "google-plus-signin.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Redmart/angular-directive.g-signin.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Redmart/angular-directive.g-signin/issues"
+  },
+  "homepage": "https://github.com/Redmart/angular-directive.g-signin#readme"
+}
